@@ -21838,6 +21838,11 @@ hash = "3afc4c67d0480ac0cb376d3a7562586c75eb52301410d7ee2321ada670dde1be"
 metafile = true
 
 [[files]]
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "b4085a5772cddefe655155a25d0d24d2f8f34017c61d9cd786d7a9868abf9092"
+metafile = true
+
+[[files]]
 file = "mods/enderdrives.pw.toml"
 hash = "acb3e8448a127471179d81c600861452276703db6c4e523e900f3ab6ff08432b"
 metafile = true
@@ -21983,6 +21988,11 @@ hash = "dc4151f16c4efef6ab34727e23e999b29db43361e19b4ba1fa355950b2257123"
 metafile = true
 
 [[files]]
+file = "mods/gag.pw.toml"
+hash = "5959363e04f33dd25c7cbf8488012a3e019a865f9f8ec5faadbf036bc2a2fca5"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "6f9520e0172a5198af290f6f087ecc57d197dcf21445b704d60424adef70d019"
 metafile = true
@@ -21990,6 +22000,11 @@ metafile = true
 [[files]]
 file = "mods/glassential-renewed.pw.toml"
 hash = "cba0ee8b6dba6f29b3f7754e191580604b7a91abec8e4740825152f418a16184"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "fa2d61b9c6b4446bbad9767e20bbd43c8c1e25bf0f7ecc9a237bf995456d02f5"
 metafile = true
 
 [[files]]
