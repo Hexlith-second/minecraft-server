@@ -21678,6 +21678,11 @@ hash = "a5a04d39791ce824b7b0b78fd1fa4f08d1584c77c9c52edcb7210439f8917e98"
 metafile = true
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "af7a7bc7b98551838c08343baa1883334f9c46a45af6fe8d113053edbf21b8cc"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
@@ -21960,6 +21965,11 @@ metafile = true
 [[files]]
 file = "mods/dumplings-delight-rewrapped.pw.toml"
 hash = "55fb617cd5b1d4588789e3c0e21e96337edbb9e2f3497995b73821c9ebbc2a31"
+metafile = true
+
+[[files]]
+file = "mods/elevatormod.pw.toml"
+hash = "58a52192b85fb49a4b772cd54677f84515a2dfc26a14d54eb880ed01f1186c5a"
 metafile = true
 
 [[files]]
@@ -22778,6 +22788,11 @@ hash = "51cbc710c50131e602e5c988566710626c1b8b931b21b30466d39ade65d61ea2"
 metafile = true
 
 [[files]]
+file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
+hash = "5015a605e131526b60fc305cba3f94aa69f076c5ee681db53a50d94bfb07cda5"
+metafile = true
+
+[[files]]
 file = "mods/more-red.pw.toml"
 hash = "0956615c98f104a87f1b986e22b7a6d11c8f1afcf5c2fc4fb52872892739f188"
 metafile = true
@@ -23203,6 +23218,11 @@ hash = "175deb225c19a72a544b9ba6308fc6b8d63980490d2752969c169a5a91160775"
 metafile = true
 
 [[files]]
+file = "mods/stick-it.pw.toml"
+hash = "e86c7e9c136b7948a88836f9977bfa8fa7dd0b6cb2e687462ad9320549d2af2d"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight-forge.pw.toml"
 hash = "e05329ecd0e8b4e366a45d791cb244fd58a5de93df74661e0520d1ef24af57a0"
 metafile = true
@@ -23385,6 +23405,11 @@ metafile = true
 [[files]]
 file = "mods/wither-skeleton-tweaks.pw.toml"
 hash = "1e64fe8b0e6b3f7099ed41c1bbe1ec213e48e2c2c7372e130abcb59b3c6679ac"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "86cc50d0858d32dcc3739a610cdcafd32f3cedd2f89bf81a87df7f3346a25760"
 metafile = true
 
 [[files]]
