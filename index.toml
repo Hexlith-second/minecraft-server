@@ -26032,5 +26032,13 @@ hash = "feecb7d3630daa92098cc3dc0148ace3373ab942739421fbe7cfa3a31f8af658"
 metafile = true
 
 [[files]]
+file = "static_mods/Structory_1.21.x_v1.3.7.jar"
+hash = "c0e8f0f382bf557990aadfa0f8a849ee566ff91da83068c4881e1ab0b61e7e51"
+
+[[files]]
+file = "static_mods/Structory_Towers_26.1_v1.0.16.jar"
+hash = "a9c1715219642c87d105bd944a0316c9a22cd3caf83836e21bcaaee3fd4f04e2"
+
+[[files]]
 file = "static_mods/apothic-nerf-1.21.1-neo.jar"
 hash = "196ffedcd5065773b6d2f88a9e4d3f5ae6ca0cbe5496d91c8b467131e7970679"
